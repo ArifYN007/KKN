@@ -1,0 +1,1 @@
+var json_FasilitasDesa4_6 = {"type":"FeatureCollection","name":"FasilitasDesa4_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[110.28075847904762,-7.607669405344295]}}]}
